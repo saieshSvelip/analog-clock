@@ -8,6 +8,7 @@ installation :
 - check if Developer mode is on, if not on it
 -click on load unpacked                      
 -then select the extension file              
+- to check the working see the image 
 
 
 
