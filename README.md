@@ -2,12 +2,12 @@
 
 it is a clock to show the time
 
-installation :                                 
--go to browser option                                
--select more tools then extensions                      
+installation :                              
+-go to browser option                         
+-select more tools then extensions          
 - check if Developer mode is on, if not on it
--click on load unpacked                             
--then select the extension file                                         
+-click on load unpacked                      
+-then select the extension file              
 
 
 
